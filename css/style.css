@@ -1,0 +1,336 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot');
+  src:  url('../fonts/icomoon.eot#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../images/icomoon.svg#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icomoon-"], [class*=" icomoon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icomoon-zap:before {
+  content: "\e933";
+}
+.icomoon-refresh-right:before {
+  content: "\e984";
+}
+.icomoon-flag:before {
+  content: "\e98e";
+}
+.icomoon-up-right:before {
+  content: "\e98f";
+}
+.icomoon-all-filled:before {
+  content: "\e985";
+}
+.icomoon-all:before {
+  content: "\e986";
+}
+.icomoon-x:before {
+  content: "\e98d";
+}
+.icomoon-debridge:before {
+  content: "\e908";
+}
+.icomoon-deNFT:before {
+  content: "\e918";
+}
+.icomoon-dePort:before {
+  content: "\e919";
+}
+.icomoon-deSDK:before {
+  content: "\e91b";
+}
+.icomoon-hardhat:before {
+  content: "\e91d";
+}
+.icomoon-widget:before {
+  content: "\e930";
+}
+.icomoon-approve:before {
+  content: "\e97b";
+}
+.icomoon-archery:before {
+  content: "\e97c";
+}
+.icomoon-bolt:before {
+  content: "\e97d";
+}
+.icomoon-broken-chain:before {
+  content: "\e97e";
+}
+.icomoon-checked:before {
+  content: "\e97f";
+}
+.icomoon-process:before {
+  content: "\e980";
+}
+.icomoon-spin:before {
+  content: "\e981";
+}
+.icomoon-vertical-align-top:before {
+  content: "\e982";
+}
+.icomoon-intersect:before {
+  content: "\e983";
+}
+.icomoon-dln-icon .path1:before {
+  content: "\e976";
+  color: rgb(234, 131, 136);
+}
+.icomoon-dln-icon .path2:before {
+  content: "\e977";
+  margin-left: -1.66796875em;
+  color: rgb(234, 131, 136);
+}
+.icomoon-dln-icon .path3:before {
+  content: "\e978";
+  margin-left: -1.66796875em;
+  color: rgb(255, 255, 255);
+}
+.icomoon-dln-icon .path4:before {
+  content: "\e979";
+  margin-left: -1.66796875em;
+  color: rgb(255, 255, 255);
+}
+.icomoon-dln-icon .path5:before {
+  content: "\e97a";
+  margin-left: -1.66796875em;
+  color: rgb(255, 255, 255);
+}
+.icomoon-applications:before {
+  content: "\e975";
+}
+.icomoon-developers:before {
+  content: "\e974";
+}
+.icomoon-deExplorer-icon:before {
+  content: "\e935";
+}
+.icomoon-deSwap-icon:before {
+  content: "\e971";
+}
+.icomoon-blog:before {
+  content: "\e932";
+}
+.icomoon-clock:before {
+  content: "\e92f";
+}
+.icomoon-sliders:before {
+  content: "\e912";
+}
+.icomoon-loader:before {
+  content: "\e944";
+}
+.icomoon-target:before {
+  content: "\e953";
+}
+.icomoon-shield-on:before {
+  content: "\e93c";
+}
+.icomoon-shuffle:before {
+  content: "\e93d";
+}
+.icomoon-maximize:before {
+  content: "\e93f";
+}
+.icomoon-slider-right:before {
+  content: "\e940";
+}
+.icomoon-arrows-in-circle:before {
+  content: "\e942";
+}
+.icomoon-box:before {
+  content: "\e943";
+}
+.icomoon-check:before {
+  content: "\e945";
+}
+.icomoon-code:before {
+  content: "\e946";
+}
+.icomoon-filter:before {
+  content: "\e94d";
+}
+.icomoon-play:before {
+  content: "\e956";
+}
+.icomoon-refresh:before {
+  content: "\e957";
+}
+.icomoon-repeat:before {
+  content: "\e958";
+}
+.icomoon-arrow-right:before {
+  content: "\e959";
+}
+.icomoon-trending-up:before {
+  content: "\e95e";
+}
+.icomoon-pyton:before {
+  content: "\e961";
+}
+.icomoon-deExp:before {
+  content: "\e965";
+}
+.icomoon-deAPI:before {
+  content: "\e967";
+}
+.icomoon-deSwap:before {
+  content: "\e968";
+}
+.icomoon-close-circle:before {
+  content: "\e969";
+}
+.icomoon-grid:before {
+  content: "\e96a";
+}
+.icomoon-down:before {
+  content: "\e96b";
+}
+.icomoon-up:before {
+  content: "\e96c";
+}
+.icomoon-open-in-new:before {
+  content: "\e914";
+}
+.icomoon-menu:before {
+  content: "\e931";
+}
+.icomoon-medium:before {
+  content: "\e916";
+}
+.icomoon-telegram:before {
+  content: "\e917";
+}
+.icomoon-discord:before {
+  content: "\e91a";
+}
+.icomoon-facebook:before {
+  content: "\e91c";
+}
+.icomoon-github:before {
+  content: "\e91e";
+}
+.icomoon-google:before {
+  content: "\e91f";
+}
+.icomoon-instagram:before {
+  content: "\e920";
+}
+.icomoon-linkedIn:before {
+  content: "\e921";
+}
+.icomoon-medium-2:before {
+  content: "\e922";
+}
+.icomoon-pinterest:before {
+  content: "\e923";
+}
+.icomoon-reddit:before {
+  content: "\e924";
+}
+.icomoon-signal:before {
+  content: "\e925";
+}
+.icomoon-snapchat:before {
+  content: "\e926";
+}
+.icomoon-spotify:before {
+  content: "\e927";
+}
+.icomoon-telegram-sircle:before {
+  content: "\e928";
+}
+.icomoon-tiktok:before {
+  content: "\e929";
+}
+.icomoon-tumblr:before {
+  content: "\e92a";
+}
+.icomoon-twitter:before {
+  content: "\e92b";
+}
+.icomoon-vk:before {
+  content: "\e92c";
+}
+.icomoon-youtube:before {
+  content: "\e92d";
+}
+.icomoon-exit:before {
+  content: "\e900";
+}
+.icomoon-arrow-left:before {
+  content: "\e901";
+}
+.icomoon-arrow-down:before {
+  content: "\e902";
+}
+.icomoon-arrow-up:before {
+  content: "\e903";
+}
+.icomoon-close:before {
+  content: "\e904";
+}
+.icomoon-info:before {
+  content: "\e905";
+}
+.icomoon-more-hor:before {
+  content: "\e906";
+}
+.icomoon-remove:before {
+  content: "\e907";
+}
+.icomoon-search:before {
+  content: "\e909";
+}
+.icomoon-settings:before {
+  content: "\e90a";
+}
+.icomoon-star:before {
+  content: "\e90b";
+}
+.icomoon-star-empty:before {
+  content: "\e90c";
+}
+.icomoon-success:before {
+  content: "\e90d";
+}
+.icomoon-time:before {
+  content: "\e90e";
+}
+.icomoon-transaction:before {
+  content: "\e90f";
+}
+.icomoon-unlock:before {
+  content: "\e910";
+}
+.icomoon-wallet:before {
+  content: "\e911";
+}
+.icomoon-copy:before {
+  content: "\e915";
+}
+.icomoon-chevron-left:before {
+  content: "\e913";
+}
+.icomoon-chevron-right:before {
+  content: "\e92e";
+}
